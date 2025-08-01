@@ -4,8 +4,6 @@
   "description": "Forward Education (FWD EDU) Climate Action Kit Gen. 2",
   "license": "MIT",
   "dependencies": {
-    "core": "*",
-    "jacdac": "github:jacdac/pxt-jacdac#v1.9.38",
     "fwd-edu-common": "github:climate-action-kits/pxt-fwd-edu/fwd-common",
     "fwd-edu-breakout": "github:climate-action-kits/pxt-fwd-edu/fwd-breakout",
     "fwd-edu-dial": "github:climate-action-kits/pxt-fwd-edu/fwd-dial",
